@@ -1,0 +1,1 @@
+#seek tell and truncket method in file
